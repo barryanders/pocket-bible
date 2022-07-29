@@ -1,0 +1,11 @@
+{
+"bibles": [
+"asv",
+"fo",
+"gs",
+"kjv",
+"ncvs",
+"svd",
+"web"],
+"primary": "/asv/genesis/1"
+}

@@ -1,0 +1,4 @@
+/*.htaccess
+/content/bibles/
+/core/api/literature/**/
+/core/tools/scribe/**/

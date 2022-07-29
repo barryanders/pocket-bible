@@ -1,0 +1,11 @@
+{
+  "name": "scribe",
+  "version": "0.0.1",
+  "description": "Converts Bibles to JSON and HTML.",
+  "dependencies" : {
+    "line-reader" : "*",
+    "underscore" : "*",
+    "xml2js" : "*"
+  },
+  "license": "MIT"
+}
